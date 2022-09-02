@@ -25,7 +25,7 @@ pip install -r requirements.txt
     mid的获取方法：点开某个up主的主页，在com后面的即为mid<br>
     例如陈翔六点半的主页地址为：https://space.bilibili.com/19286458 ,则mid为19286458<br>
     九三的主页为：https://space.bilibili.com/313580179 ,则mid为313580179
-  
+    <br>
     up主的主页一般最多只能显示25个视频，其他视频需要点击下一页才能看到，因此pn参数用于设置爬取第几页的视频
 
     
